@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+PLEASE NOTE THAT THIS PROJECT DOES NOT INCLUDE NODE_MODULES. IN ORDER TO RUN THIS PROJECT YOU NEED TO INSTAL NODE_MODULES ON YOUR OWN
+
 ## Available Scripts
 
 In the project directory, you can run:
